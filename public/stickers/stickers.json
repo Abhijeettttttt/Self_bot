@@ -1,0 +1,34 @@
+{
+  "stickers": [
+    {
+      "id": "laugh",
+      "keywords": ["funny", "lol", "haha", "lmao", "rofl", "hilarious"],
+      "file": "laugh.png",
+      "alt": "Abhijeet laughing hard"
+    },
+    {
+      "id": "angry",
+      "keywords": ["angry", "mad", "irritated", "annoyed", "frustrated"],
+      "file": "angry.png",
+      "alt": "Abhijeet looking angry"
+    },
+    {
+      "id": "cool",
+      "keywords": ["cool", "swag", "chill", "awesome", "dope"],
+      "file": "cool.png",
+      "alt": "Abhijeet looking cool with sunglasses"
+    },
+    {
+      "id": "sad",
+      "keywords": ["sad", "crying", "upset", "disappointed", "heartbroken"],
+      "file": "sad.png",
+      "alt": "Abhijeet looking sad"
+    },
+    {
+      "id": "love",
+      "keywords": ["love", "heart", "pyaar", "romantic", "miss"],
+      "file": "love.png",
+      "alt": "Abhijeet sending love"
+    }
+  ]
+}
